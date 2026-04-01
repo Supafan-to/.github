@@ -1,4 +1,4 @@
-# Supafan-to
+# Supafan.to
 
 Public GitHub home for SupaFan.to and related projects.
 
