@@ -1,30 +1,30 @@
-# Supafan.to
+# SupaFan.to
 
 Public GitHub home for SupaFan.to and related projects.
 
-## What this organization is
+## What this is
 
-Supafan-to is the technical public surface around **SupaFan.to**.
+Supafan-to is the public technical surface around **SupaFan.to**.
 
-SupaFan.to is a link-in-bio service for artists and creators. It helps turn profile visits into a more concrete support action by letting fans send a paid **10€ support message** through the creator’s page.
+SupaFan.to is a link-in-bio service for artists and creators. It turns profile visits into a concrete support action by letting fans send a paid **10€ support message** directly through a creator’s page.
 
-This GitHub organization is used for:
+This organization is used for:
 
-- public repositories related to the broader SupaFan ecosystem
-- open-source side projects and tools
-- technical notes, docs, and changelog-style public updates when appropriate
+- selected open-source tools and side projects
+- technical notes and documentation
+- public-facing product material when relevant
 
-## Who SupaFan.to is for
+## Who it is for
 
 SupaFan.to is built for:
 
-- musicians
-- visual artists
-- performers
-- video creators
-- other independent creators who want a cleaner public page and a more direct support path
+- musicians  
+- visual artists  
+- performers  
+- video creators  
+- independent creators who want a clearer path from attention to support  
 
-## Main links
+## Links
 
 - Website: https://supafan.to/
 - Knowledge Base: https://kb.supafan.to/knowledge-base/
@@ -34,30 +34,29 @@ SupaFan.to is built for:
 ## Public repositories
 
 ### open-wordpress-seo
-A free and open-source WordPress SEO plugin.
 
-Repository:
+Free and open-source WordPress SEO plugin.
+
 https://github.com/Supafan-to/open-wordpress-seo
 
-Originally published as an independent open-source project and now placed under this organization as the first public repository.
+Originally published as an independent project and later moved under this organization.
 
 ## Public status
 
-The main SupaFan.to product is a real live service, but not all of its code is public.
+SupaFan.to is a live product, but not all of its code is public.
 
-This organization will contain public-facing repositories when they are useful to share.  
-That means open-source tools, support material, experiments, and selected technical assets instead of pretending the whole product is open source when it is not.
+This organization exists to share what is useful publicly – without presenting the product as fully open source.
 
 ## Changelog
 
 ### 2026-04-01
-- GitHub organization created
-- `open-wordpress-seo` added as the first public repository
+- Organization created  
+- `open-wordpress-seo` added as the first public repository  
 
 ## Contact
 
-- Product site: https://supafan.to/
-- Legal / company: https://mindvaultassociates.fi/
+- https://supafan.to/
+- https://mindvaultassociates.fi/
 
 ---
 
