@@ -33,6 +33,10 @@ SupaFan.to is built for:
 
 ## Public repositories
 
+### about-supafan
+
+Public product overview, changelog, and technical notes for SupaFan.to.
+
 ### open-wordpress-seo
 
 Free and open-source WordPress SEO plugin.
