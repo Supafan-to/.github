@@ -30,6 +30,9 @@ SupaFan.to is built for:
 - Knowledge Base: https://kb.supafan.to/knowledge-base/
 - Terms of Service: https://kb.supafan.to/terms-of-service/
 - Privacy Policy: https://kb.supafan.to/privacy-policy/
+- SupaDrop release page tool: https://drop.supafan.to/
+- SupaDrop AI chatbot: https://supadrop.to/
+- Information in Finnish: https://supafan.fi/
 
 ## Public repositories
 
